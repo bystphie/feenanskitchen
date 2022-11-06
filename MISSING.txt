@@ -1,0 +1,5 @@
+The following files failed to download during site export. Please check them in the designer assets view (images) or dashboard (fonts).
+
+fonts/CerebriSansPro-Heavy.ttf
+fonts/CerebriSansPro-Regular.ttf
+fonts/Lucky-Fellas-W00-Regular.ttf
